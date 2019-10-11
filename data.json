@@ -1,0 +1,33 @@
+[
+	{
+		"id": 1,
+		"name": "A project",
+		"slug": "a-project",
+		"medias": [
+			{
+				"type": "image",
+				"src": "http://mywebsite.com/wp-content/uploads/2018/06/bla.jpg"
+			},
+			{
+				"type": "image",
+				"src": "http://mywebsite.com/wp-content/uploads/2018/06/hello.jpg"
+			},
+			{
+				"type": "image",
+				"src": "http://mywebsite.com/wp-content/uploads/2018/06/wow.jpg"
+			},
+			{
+				"type": "image",
+				"src": "http://mywebsite.com/wp-content/uploads/2018/06/me.jpg"
+			},
+			{
+				"type": "image",
+				"src": "http://mywebsite.com/wp-content/uploads/2018/06/yo.jpg"
+			},
+			{
+				"type": "image",
+				"src": "http://mywebsite.com/wp-content/uploads/2018/06/wtf.jpg"
+			}
+		]
+	}
+]
